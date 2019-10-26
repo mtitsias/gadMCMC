@@ -9,5 +9,5 @@ gad_mala_exact.m : gadMALAe
 gad_mala_fast.m  : gadMALAf
 gad_rwm.m  : gadRWM
 
-THe demo files run all the experiments in the paper. See individual files for 
+The demo files run all the experiments in the paper. See individual files for 
 specific details. 
